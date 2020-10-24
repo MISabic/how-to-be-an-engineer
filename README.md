@@ -1,3 +1,6 @@
+These articles helped me to have a clear concept of the topics and I just wanted to share the resources with everyone since it is sometimes hard to find a proper guideline.
+Disclaimer: I am by no means connected to the authors of the contents. 
+
 # Ruby
 
 - Details of Active Record? - https://guides.rubyonrails.org/active_record_basics.html
