@@ -3,7 +3,7 @@ Disclaimer: I am by no means connected to the authors of the contents.
 
 # JavaScript
 
-- Event Loop - https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=1s
+- Event Loop - https://www.youtube.com/watch?v=8aGhZQkoFbQ
 
 # Ruby
 
