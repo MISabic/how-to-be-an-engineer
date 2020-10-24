@@ -1,10 +1,14 @@
 These articles helped me to have a clear concept of the topics and I just wanted to share the resources with everyone since it is sometimes hard to find a proper guideline.
 Disclaimer: I am by no means connected to the authors of the contents. 
 
+# JavaScript
+
+- Event Loop - https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=1s
+
 # Ruby
 
 - Ruby Language Reference Manual - https://ruby-doc.org/docs/ruby-doc-bundle/Manual/man-1.4/
-- Details of Active Record? - https://guides.rubyonrails.org/active_record_basics.html
+- Details of Active Record - https://guides.rubyonrails.org/active_record_basics.html
 
 # SSH
 
