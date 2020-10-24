@@ -1,6 +1,6 @@
 # Ruby
 
-- What is Active Record? - https://guides.rubyonrails.org/active_record_basics.html
+- Details of Active Record? - https://guides.rubyonrails.org/active_record_basics.html
 
 # SSH
 
