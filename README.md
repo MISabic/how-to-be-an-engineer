@@ -17,3 +17,7 @@ Disclaimer: I am by no means connected to the authors of the contents.
 - Illustrated Transformer - http://jalammar.github.io/illustrated-transformer/
 - Illustrated Recurrent Neural Networks - https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9
 - Illustrated LSTM and GRU - https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+
+# Miscellaneous
+
+- Scaffolding - https://stackoverflow.com/questions/235018/what-is-scaffolding-is-it-a-term-for-a-particular-platform
