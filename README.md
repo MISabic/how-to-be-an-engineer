@@ -24,6 +24,11 @@ Disclaimer: I am by no means connected to the authors of the contents.
 - Illustrated Recurrent Neural Networks - https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9
 - Illustrated LSTM and GRU - https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
 
+# Containers
+
+- A great site to learn about container concepts - https://www.ianlewis.org/
+- OCI, CRI, CNI; Docker vs. containerd vs. Nabla vs. Kata vs. Firecracker and more! - https://www.inovex.de/blog/containers-docker-containerd-nabla-kata-firecracker/
+
 # Miscellaneous
 
 - What is Webhook? - https://www.youtube.com/watch?v=rUaDIH5ZXB8
