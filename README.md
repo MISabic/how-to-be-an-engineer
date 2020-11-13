@@ -30,6 +30,11 @@ Disclaimer: I am by no means connected to the authors of the contents.
 - A great site to learn about container concepts - https://www.ianlewis.org/
 - OCI, CRI, CNI; Docker vs. containerd vs. Nabla vs. Kata vs. Firecracker and more! - https://www.inovex.de/blog/containers-docker-containerd-nabla-kata-firecracker/
 
+# Docker
+
+- Docker in Docker - https://jpetazzo.github.io/2015/09/03/do-not-use-docker-in-docker-for-ci/
+- Running Docker in Docker - https://medium.com/@manav503/how-to-build-docker-images-inside-a-jenkins-container-d59944102f30 (Same approach can be used for other cases)
+
 # Miscellaneous
 
 - What is Webhook? - https://www.youtube.com/watch?v=rUaDIH5ZXB8
