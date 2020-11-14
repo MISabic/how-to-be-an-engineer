@@ -35,6 +35,10 @@ Disclaimer: I am by no means connected to the authors of the contents.
 - Docker in Docker - https://jpetazzo.github.io/2015/09/03/do-not-use-docker-in-docker-for-ci/
 - Running Docker in Docker - https://medium.com/@manav503/how-to-build-docker-images-inside-a-jenkins-container-d59944102f30 (Same approach can be used for other cases)
 
+# Linux
+
+- Some great resources to learn Linux - https://www.youtube.com/watch?v=x-3TBVtM0-Y
+
 # Miscellaneous
 
 - What is Webhook? - https://www.youtube.com/watch?v=rUaDIH5ZXB8
