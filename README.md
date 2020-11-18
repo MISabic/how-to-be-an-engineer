@@ -1,6 +1,10 @@
 The following articles helped me to have a clear concept of the topics and I just wanted to share the resources with everyone since it is sometimes hard to find a proper guideline.
 Disclaimer: I am by no means connected to the authors of the contents. 
 
+# Software Engineering
+
+- Software Design Patterns - https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977
+
 # JavaScript
 
 - Event Loop - https://www.youtube.com/watch?v=8aGhZQkoFbQ
