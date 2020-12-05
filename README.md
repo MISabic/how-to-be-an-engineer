@@ -43,6 +43,10 @@ Disclaimer: I am by no means connected to the authors of the contents.
 
 - Some great resources to learn Linux - https://www.youtube.com/watch?v=x-3TBVtM0-Y
 
+# Web Scraping
+
+- Backconnect Proxy - https://medium.com/@ScrapingHub/backconnect-proxy-explanation-comparison-to-other-proxies-1d5bb796cb4f
+
 # Miscellaneous
 
 - What is Webhook? - https://www.youtube.com/watch?v=rUaDIH5ZXB8
