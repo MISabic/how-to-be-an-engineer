@@ -52,3 +52,7 @@ Disclaimer: I am by no means connected to the authors of the contents.
 - What is Webhook? - https://www.youtube.com/watch?v=rUaDIH5ZXB8
 - Webhook vs API - https://hackernoon.com/webhook-vs-api-whats-the-difference-8d41e6661652
 - Scaffolding - https://stackoverflow.com/questions/235018/what-is-scaffolding-is-it-a-term-for-a-particular-platform
+
+# Some amazing articles
+
+- Donut math: how donut.c works - https://www.a1k0n.net/2011/07/20/donut-math.html
