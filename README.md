@@ -56,3 +56,7 @@ Disclaimer: I am by no means connected to the authors of the contents.
 # Some amazing articles
 
 - Donut math: how donut.c works - https://www.a1k0n.net/2011/07/20/donut-math.html
+
+# Get the List of All OPEN-SOURCED projects
+
+- List of projects - https://awesomeopensource.com/
