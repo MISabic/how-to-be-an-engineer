@@ -8,7 +8,7 @@ Disclaimer: I am by no means connected to the authors of the contents.
 # JavaScript
 
 - Event Loop - https://www.youtube.com/watch?v=8aGhZQkoFbQ
-- Async Javascript Tutorial For Beginners (Callbacks, Promises, Async Await) - https://www.youtube.com/watch?v=_8gHHBlbziw&t=2255s
+- Async Javascript Tutorial For Beginners (Callbacks, Promises, Async Await) - https://www.youtube.com/watch?v=_8gHHBlbziw
 
 # Ruby
 
