@@ -1,6 +1,10 @@
 The following articles helped me to have a clear concept of the topics and I just wanted to share the resources with everyone since it is sometimes hard to find a proper guideline.
 Disclaimer: I am by no means connected to the authors of the contents. 
 
+# Competitive Programming
+
+- Open sourced book to learn algorithms and data structures - https://github.com/pllk/cphb
+
 # Software Engineering
 
 - Software Design Patterns - https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977
@@ -8,6 +12,7 @@ Disclaimer: I am by no means connected to the authors of the contents.
 # Python
 
 - Great website to learn Python - https://realpython.com
+- Guide to full stack Python - https://www.fullstackpython.com/table-of-contents.html
 
 # JavaScript
 
