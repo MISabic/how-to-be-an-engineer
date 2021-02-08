@@ -14,6 +14,10 @@ Disclaimer: I am by no means connected to the authors of the contents.
 - Great website to learn Python - https://realpython.com
 - Guide to full stack Python - https://www.fullstackpython.com/table-of-contents.html
 
+## Celery
+
+- Basics of Celery - https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/
+
 # JavaScript
 
 - Event Loop - https://www.youtube.com/watch?v=8aGhZQkoFbQ
