@@ -25,6 +25,10 @@ Disclaimer: I am by no means connected to the authors of the contents.
 - Async Javascript Tutorial For Beginners (Callbacks, Promises, Async Await) - https://www.youtube.com/watch?v=_8gHHBlbziw
 - Great website to learn Javascript - https://bezkoder.com/
 
+# React
+
+- React eject - https://sebhastian.com/create-react-app-eject/
+
 # Ruby
 
 - Ruby Language Reference Manual - https://ruby-doc.org/docs/ruby-doc-bundle/Manual/man-1.4/
