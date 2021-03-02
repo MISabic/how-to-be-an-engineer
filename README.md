@@ -68,6 +68,10 @@ Disclaimer: I am by no means connected to the authors of the contents.
 
 - Some great resources to learn Linux - https://www.youtube.com/watch?v=x-3TBVtM0-Y
 
+# HTTP
+
+- Http/2 - https://kinsta.com/learn/what-is-http2/
+
 # Testing
 
 - A/B Testing - https://vwo.com/ab-testing/
