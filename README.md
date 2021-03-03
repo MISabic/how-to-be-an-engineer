@@ -72,6 +72,10 @@ Disclaimer: I am by no means connected to the authors of the contents.
 
 - Http/2 - https://kinsta.com/learn/what-is-http2/
 
+# Database Management System
+
+- PostgreSQL vs. MySQL - https://www.enterprisedb.com/blog/postgresql-vs-mysql-360-degree-comparison-syntax-performance-scalability-and-features
+
 # Testing
 
 - A/B Testing - https://vwo.com/ab-testing/
