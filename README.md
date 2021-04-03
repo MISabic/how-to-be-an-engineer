@@ -72,6 +72,10 @@ Disclaimer: I am by no means connected to the authors of the contents.
 
 - Http/2 - https://kinsta.com/learn/what-is-http2/
 
+# CORS
+
+- What is CORS? - https://medium.com/@electra_chong/what-is-cors-what-is-it-used-for-308cafa4df1a
+
 # Database Management System
 
 - PostgreSQL vs. MySQL - https://www.enterprisedb.com/blog/postgresql-vs-mysql-360-degree-comparison-syntax-performance-scalability-and-features
