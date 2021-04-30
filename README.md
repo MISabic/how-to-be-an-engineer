@@ -41,6 +41,10 @@ Disclaimer: I am by no means connected to the authors of the contents.
 - SSL - https://www.youtube.com/watch?v=hQWRp-FdTpc
 - SSL vs SSH - https://sectigostore.com/blog/ssh-vs-ssl-exploring-the-similarities-and-differences/
 
+# Git
+
+- Git Tutorial - https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx
+
 # Firebase
 
 - What is Firebase? - https://medium.com/firebase-developers/what-is-firebase-the-complete-story-abridged-bcc730c5f2c0
