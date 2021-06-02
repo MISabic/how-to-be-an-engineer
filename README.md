@@ -95,6 +95,10 @@ Disclaimer: I am by no means connected to the authors of the contents.
 
 - A/B Testing - https://vwo.com/ab-testing/
 
+# Software design patterns and architecture
+
+- Microservice Architecture - https://martinfowler.com/articles/microservices.html
+
 # Web Scraping
 
 - Backconnect Proxy - https://medium.com/@ScrapingHub/backconnect-proxy-explanation-comparison-to-other-proxies-1d5bb796cb4f
