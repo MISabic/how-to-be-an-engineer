@@ -4,5 +4,7 @@
 
 # REST API
 
-- What Is A RESTful API? - https://www.youtube.com/watch?v=Q-BpqyOT3a8
+- REST vs SOAP - https://stackoverflow.com/questions/19884295/soap-vs-rest-differences
+- Statelessness in REST APIs - https://restfulapi.net/statelessness/#:~:text=Statelessness%20means%20that%20every%20HTTP,previous%20requests%20from%20the%20client.
 - Online Fake REST API Server - https://jsonplaceholder.typicode.com/
+- REST API Design Best Practices - https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples/ 
